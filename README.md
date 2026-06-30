@@ -1,6 +1,4 @@
-# pythonPRACTICE
-# pythonPRACTICE
-# pythonPRACTICE
-# pythonPRACTICE
-# pythonPRACTICE
-# pythonPRACTICE
+
+'''
+Ini isinya tatacara menggunakannya
+'''

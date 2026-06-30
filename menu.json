@@ -1,0 +1,13 @@
+{
+    "makanan": {
+        "Nasi Goreng": 25000,
+        "Mie Instan": 12000,
+        "Ayam Bakar": 30000
+    },
+    "minuman": {
+        "Es Teh": 5000,
+        "Es Jeruk": 8000,
+        "Air Putih": 3000
+    }
+}
+
